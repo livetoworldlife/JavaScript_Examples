@@ -1,0 +1,29 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Ebook Sales App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradtraversy/ebookseller.git"
+  },
+  "keywords": [
+    "ebook"
+  ],
+  "author": "ersin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradtraversy/ebookseller/issues"
+  },
+  "homepage": "https://github.com/bradtraversy/ebookseller#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodemon": "^2.0.4",
+    "stripe": "^8.55.0"
+  }
+}
