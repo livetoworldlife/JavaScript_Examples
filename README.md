@@ -61,3 +61,13 @@ Some of them are for hyf course, others are my own works...
   <br>
   <img align="center" src="https://github.com/livetoworldlife/JavaScript_Examples/blob/master/RockPaper%20Sc/RockPaper.png" width="600" height="400">
 </p>
+
+
+## 6- Weather App
+<p align="center">
+  For all files of Weather App, click  
+<a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/Weather_App">the link of folder.</a>
+  <br>
+  <br>
+  <img align="center" src="https://github.com/livetoworldlife/JavaScript_Examples/blob/master/Weather_App/WeatherApp.png" width="600" height="400">
+</p>
