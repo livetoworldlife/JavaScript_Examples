@@ -53,7 +53,7 @@ Some of them are for hyf course, others are my own works...
 </p>
 
 
-## 5- Rock Paper Scissors Game
+## 6- Rock Paper Scissors Game
 <p align="center">
   For all files of Rock Paper Scissors Game, click  
 <a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/RockPaper%20Sc">the link of folder.</a>
@@ -63,7 +63,7 @@ Some of them are for hyf course, others are my own works...
 </p>
 
 
-## 6- Weather App
+## 7- Weather App
 <p align="center">
   For all files of Weather App, click  
 <a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/Weather_App">the link of folder.</a>
@@ -73,7 +73,7 @@ Some of them are for hyf course, others are my own works...
 </p>
 
 
-## 7- Pin Login
+## 8- Pin Login
 <p align="center">
   For all files of Pin Login, click  
 <a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/PinLogin">the link of folder.</a>
@@ -83,7 +83,7 @@ Some of them are for hyf course, others are my own works...
 </p>
 
 
-## 8- Booklist App
+## 9- Booklist App
 <p align="center">
   For all files of Booklist App, click  
 <a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/BooklistApp">the link of folder.</a>
@@ -93,7 +93,7 @@ Some of them are for hyf course, others are my own works...
 </p>
 
 
-## 9- Number Facts App 
+## 10- Number Facts App 
 <p align="center">
   For all files of Number Facts App , click  
 <a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/Number%20Facts%20App%20">the link of folder.</a>
@@ -103,11 +103,21 @@ Some of them are for hyf course, others are my own works...
 </p>
 
 
-## 9- Fetch Sandbox App 
+## 11- Fetch Sandbox App 
 <p align="center">
   For all files of Fetch Sandbox App , click  
 <a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/Fetch%20Sandbox%20App">the link of folder.</a>
   <br>
   <br>
   <img align="center" src="https://github.com/livetoworldlife/JavaScript_Examples/blob/master/Fetch%20Sandbox%20App/fetchsandbox.png" width="600" height="400">
+</p>
+
+
+## 12- Dynamic Landing Page
+<p align="center">
+  For all files of Dynamic Landing Page , click  
+<a align="left" href="https://github.com/livetoworldlife/JavaScript_Examples/tree/master/Dynamic%20Landing%20Page">the link of folder.</a>
+  <br>
+  <br>
+  <img align="center" src="https://github.com/livetoworldlife/JavaScript_Examples/blob/master/Dynamic%20Landing%20Page/Dynamic%20Landing%20Page.png" width="600" height="400">
 </p>
