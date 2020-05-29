@@ -1,6 +1,6 @@
-# Express Crash Course
+# Express Member App
 
-> Files for the YouTube crash course
+> https://pacific-wave-91619.herokuapp.com/
 
 - Setup & Install / Simple Server
 - Simple API
@@ -22,7 +22,7 @@ npm run dev
 ```
 
 
-# Express.js demo
+# EXPLANATION
 
 ## what is Express?
 
